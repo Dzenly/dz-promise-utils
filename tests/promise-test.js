@@ -1,7 +1,7 @@
 'use strict';
 
-var promiseUtils = require('../../promise');
-var t = require('test-engine/tmp-light-utils');
+var promiseUtils = require('promise-ex');
+var t = require('tia/tmp-light-utils');
 t.init(true, true);
 
 function test(msg, resolveTimeout, waitTimeout, delay) {

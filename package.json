@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Dzenly/promise-ex/issues"
   },
-  "homepage": "https://github.com/Dzenly/promise-ex#readme"
+  "homepage": "https://github.com/Dzenly/promise-ex#readme",
+  "dependencies": {
+    "bluebird": "^3.3.4"
+  }
 }

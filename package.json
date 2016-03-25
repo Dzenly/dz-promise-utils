@@ -1,5 +1,5 @@
 {
-  "name": "promise-ex",
+  "name": "dz-promise-utils",
   "version": "0.1.0",
   "description": "Utilities to work with promises.",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Dzenly/promise-ex.git"
+    "url": "git+ssh://git@github.com/Dzenly/dz-promise-utils.git"
   },
   "author": "Dzenly <alexchem@yandex.ru>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Dzenly/promise-ex/issues"
+    "url": "https://github.com/Dzenly/dz-promise-utils/issues"
   },
-  "homepage": "https://github.com/Dzenly/promise-ex#readme",
+  "homepage": "https://github.com/Dzenly/dz-promise-utils#readme",
   "dependencies": {
     "bluebird": "^3.3.4"
   }

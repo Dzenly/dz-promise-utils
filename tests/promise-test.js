@@ -1,6 +1,7 @@
+#! /usr/bin/env node
 'use strict';
 
-var promiseUtils = require('promise-ex');
+var promiseUtils = require('dz-promise-utils');
 var t = require('tia/tmp-light-utils');
 t.init(true, true);
 
